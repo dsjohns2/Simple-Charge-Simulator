@@ -1,10 +1,12 @@
 # Simple-Charge-Simulator
 
-compile with:
+Compile with:
 gcc sim.c -lm -o runsim
 
-run with:
+Run with:
 ./runsim
 
-plot with:
+Plot with:
 python plot.py
+
+Parameters can be changed within the sim.c file to change the movement of the test charge.
